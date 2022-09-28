@@ -1,3 +1,3 @@
-# css assignment, build the website
+Portfolio
 
-link for the website :  https://raikhanimanbay.github.io/css-assignment-website/
+link for the website :  https://raikhanimanbay.github.io/portfolio/
